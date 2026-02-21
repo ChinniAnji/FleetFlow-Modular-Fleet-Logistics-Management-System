@@ -1,7 +1,5 @@
 # FleetFlow - Modular Fleet & Logistics Management System
 
-## 🚀 Industry-Level Fleet Management Solution
-
 A comprehensive, enterprise-grade fleet and logistics management system built with modern technologies for the Odoo Hackathon.
 
 ## 💻 Tech Stack
@@ -258,13 +256,6 @@ The system uses MySQL with the following main tables:
 - Code splitting
 - Compressed responses
 
-## 🤝 Contributing
-
-This is a hackathon project. For improvements:
-1. Fork the repository
-2. Create feature branch
-3. Commit changes
-4. Push and create PR
 
 ## 👥 Team
 
